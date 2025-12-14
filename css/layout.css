@@ -252,3 +252,10 @@
   border-radius: 12px;
   border: none;
 }
+
+
+.card-container5{
+    height: 1000px;
+    width: 1360px;
+    border: 1px solid black;
+}
